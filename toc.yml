@@ -1,0 +1,10 @@
+- name: Artículos
+  href: articles/
+- name: Documentación
+  href: api/
+  homepage: api/index.md
+- name: Plantillas y descargas
+  href: templates/
+  homepage: templates/index.md
+
+

@@ -1,0 +1,3 @@
+# Estadísticas de uso
+
+Cras venenatis sollicitudin dui porttitor bibendum. Aenean vel aliquet lectus, vel interdum sapien. Etiam lobortis pellentesque metus, ut elementum neque sollicitudin a. Praesent imperdiet luctus nulla at dignissim. Maecenas tincidunt commodo orci, eget volutpat nisi sollicitudin at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam nec ullamcorper sapien, a sodales magna. Mauris suscipit sapien vel euismod commodo. Nulla dignissim cursus massa at consectetur. Vestibulum tincidunt blandit urna, ac consequat elit mattis ac. Pellentesque vitae interdum dui, convallis scelerisque metus.
