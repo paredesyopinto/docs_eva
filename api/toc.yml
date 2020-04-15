@@ -1,0 +1,30 @@
+- name: Introducción
+  href: index.md  
+  items:
+   - name: Glosario
+     href: glossary.md  
+   - name: "Conceptos básicos"
+     href: overview.md
+   - name: "Procesamiento de una solicitud"
+     href: processing-request.md
+   - name: Plugins
+     href: introducing-plugins.md  
+
+- name: Componentes
+  href: system-design.md
+  items:
+   - name: "Configuración del sistema"
+     href: system-config.md
+   - name: Admnistración
+     href: system-admin.md
+   - name: "Línea de comandos"
+     href: powershell-module.md
+
+- name: "Mensajes de error"
+  href: error-messages.md     
+
+- name: "Estadísticas de uso"
+  href: system-statistics.md
+
+- name: "Seguimiento/Rastreo de una solicitud"
+  href: trace-request.md
