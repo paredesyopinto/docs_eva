@@ -1,6 +1,8 @@
 # Plugins
 
-Vivamus luctus urna id blandit malesuada. Sed pulvinar non mi id rhoncus. Aliquam id ante scelerisque, ornare tortor id, gravida justo. Aenean mattis dui ipsum. Sed ante dolor, viverra non tellus eget, vehicula venenatis quam. Integer in placerat erat. Curabitur posuere id urna quis volutpat. Etiam at erat lacus. Etiam ullamcorper urna eget dolor tincidunt, sit amet pellentesque mauris ultricies. Morbi facilisis scelerisque suscipit. Mauris molestie purus mi. Nullam sed massa sed dolor ultricies pretium in vel eros. Phasellus faucibus mi ut augue porta, sed condimentum velit aliquet. Vestibulum non erat vel arcu bibendum commodo.
+En su forma más simple, un plugin es un complemento de software desarrollado a la medida, que se instala dentro del entorno de ejecución de **`EVA`** y que permite mejorar sus capacidades. Por ejemplo, si desea que un comando conecte con una base de datos y actualice un registro, puede desarrollar un complemento para hacerlo. Si el complemento no está instalado, EVA no entenderá cual es la solicitud que el usuario desea resolver.
+
+Un plugin puede mantener su propia configuración (en el ejemplo anterior la cadena de conexión con la base de datos) y recupérala en tiempo de ejecución lo que facilita la centralización de la configuración y simplifica el desarrollo de funcionalidades.
 
 ## Plugins del sistema
 
