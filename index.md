@@ -1,4 +1,29 @@
-# This is the **HOMEPAGE**.
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
-## Quick Start Notes:
-1. Add images to the *images* folder if the file is referencing an image.
+# EVA Slack Edition
+
+`EVA Slack Edition` es un servicio que permite responder a una solicitud hecha desde un canal de Slack con un desarrollo personalizado, facilitando la automatización de sus flujos de trabajo, y atendiendo al cliente en línea y tiempo real. Ofrezca valor a sus usuarios más rápido utilizando herramientas comprobadas para la automatización del trabajo en todos sus equipos. Conéctese con otros sistemas, APIs y/o bases de datos y automatice los procesos de atención a sus clientes.
+
+[![Obtenga más información aquí](images/more_info_here.png "Obtenga más información aquí")](api/index.md)
+
+## Desarrollar un plugin
+
+[![Desarrollar un plugin](images/plugins_icon.jpg "Desarrollar un plugin")](articles/new-plugin.md)
+
+[Desarrolle una extensión/plugin que permita atender una solicitud.](articles/new-plugin.md)
+
+## Administración de plugins
+
+[![Administración de plugins](images/powershell-icon.jpg "Administración de plugins")](articles/new-plugin.md)
+
+[Administre fácilmente los plugins habilitados para el uso de los usuarios finales.](articles/new-plugin.md)
+
+## Conectado desde la idea hasta el lanzamiento
+
+[![Conectado desde la idea hasta el lanzamiento](images/trace-icon.jpg "Conectado desde la idea hasta el lanzamiento")](api/trace-request.md)
+
+[Aprenda como hacer seguimiento de todas las solicitudes para verificar que están necesitando sus usuarios.](api/trace-request.md)
+
+## Plugins del sistema
+
+[![Plugins del sistema](images/system-plugins-icon.png "Plugins del sistema")](articles/system-plugins.md)
+
+[Conozca los plugins que vienen con el sistema o aprenda a crear sus plugins propios.](articles/system-plugins.md)

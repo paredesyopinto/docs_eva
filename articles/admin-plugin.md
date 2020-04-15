@@ -1,0 +1,3 @@
+# Administración de plugins
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at mauris eget magna auctor bibendum. Proin eu interdum massa. Maecenas aliquam mollis volutpat. Sed scelerisque sapien sit amet enim venenatis feugiat. Aliquam mollis neque sem, vitae tristique augue interdum commodo. Sed finibus, velit vel pharetra elementum, lacus tellus molestie elit, quis luctus massa dolor at lectus. Proin egestas, neque laoreet pharetra fermentum, justo risus dictum urna, in dapibus sem nunc quis nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc iaculis felis sed finibus rhoncus. Sed bibendum magna ex, at auctor sem dignissim nec. Integer id risus commodo, dapibus ligula sit amet, semper mi.

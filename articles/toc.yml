@@ -1,12 +1,17 @@
-- name: Creación de un plugin
+- name: "Creación de un plugin"
   href: new-plugin.md
 
-- name: Contexto de ejecución
+- name: "Contexto de ejecución"
   href: context-plugin.md
 
-- name: ¿Como probar un plugin? 
+- name: "¿Como probar un plugin?"
   href: testing-plugin.md
 
-- name: Instalar un plugin  
+- name: "Instalar un plugin"
   href: deploy-plugin.md
 
+- name: "Administración de plugins"
+  href: admin-plugin.md  
+
+- name: "Plugins del sistema"
+  href: system-plugins.md
