@@ -20,4 +20,4 @@ El ciclo de vida para atender una solicitud en EVA consta de 5 pasos básicos:
 
 #### Recursos relacionados
 
-[Aplicaciones de Slack](https://slack.com/downloads) | [Instalación de un plugin](../articles/deploy-plugin.md) | [Establecer permisos de ejecución](../api/security.md#permisos-de-ejecución)
+[Aplicaciones de Slack](https://slack.com/downloads) | [Instalación de un plugin](../articles/deploy-plugin.md) | [Establecer permisos de ejecución](../api/security-summary.md)

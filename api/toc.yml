@@ -18,15 +18,13 @@
    - name: "Variedad de opciones de respuesta"
      href: ../articles/format-output.md
 
-- name: Configuración del sistema
-  href: system-summary.md
+- name: "Seguridad y permisos"
+  href: security-summary.md
   items:
-  - name: "Seguridad y permisos"
-    href: security.md
-  - name: "Archivo de configuración"
-    href: security.md    
-  - name: "Archivos de Logs"
-    href: security.md      
+  - name: Usuarios
+    href: security-users.md
+  - name: Roles
+    href: security-roles.md   
 
 - name: "Mensajes de error comunes"
   href: error-messages.md     
@@ -36,4 +34,11 @@
 
 - name: "Estadísticas de uso"
   href: system-statistics.md
-
+  
+- name: Configuración del sistema
+  href: system-summary.md
+  items:  
+    - name: "Archivo de configuración"
+      href: config-file.md
+    - name: "Archivos de Logs"
+      href: config-logs.md      

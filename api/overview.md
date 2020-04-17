@@ -36,4 +36,4 @@ Las páginas de ayuda de Slack describen [todas las formas de invitar a nuevos m
 
 - Envie la invitación para que los usuarios se unan al espacio de trabajo.
 - Cuando los usuarios acepten la invitación e inicien sesión verán en su barra de navegación una entrada en la sección de **Apps** con el nombre del bot.
-- Asegurese de [establecer permisos de ejecución](../api/system-admin.md#establecer-permisos-de-ejecución) para que los usuarios puedan hacer uso de los comandos en el bot.
+- Asegurese de [establecer permisos de ejecución](../api/system-admin.md) para que los usuarios puedan hacer uso de los comandos en el bot.

@@ -20,7 +20,7 @@ Muestra la información de todos los comandos disponibles en el bot, así como s
 
 ### Plugin de enrolamiento
 
-Facilita que un usuario se agregue a un rol a través del uso de un código de enrolamiento. En la sección [Establecer permisos de ejecución](security.md) hablaremos de este tema con mayor profundidad.
+Facilita que un usuario se agregue a un rol a través del uso de un código de enrolamiento. En la sección [Establecer permisos de ejecución](security-summary.md) hablaremos de este tema con mayor profundidad.
 
 ![Responder a invitación](../images/rsvp_command-logo.png "Responder a invitación")
 

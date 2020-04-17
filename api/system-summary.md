@@ -30,9 +30,9 @@ Un conjunto de clases base extensibles, permiten a los desarrolladores generar r
 
 Con la seguridad que se extiende hasta el nivel de comando, EVA proporciona un modelo de seguridad que le brinda un control completo y altamente granular sobre quién puede hacer uso de un comando. La agrupación basada en roles simplifica la gestión de la seguridad, con permisos específicos otorgados a los usuarios en función de sus roles o sus identificadores individuales.
 
-[Más información aquí](security.md)
+[Más información aquí](security-summary.md)
 
 
 ### Temas relacionados
 
-[Configuración del sistema](../api/system-config.md) | [Instalación de un plugin](../articles/deploy-plugin.md) | [Establecer permisos de ejecución](../api/security.md#permisos-de-ejecución)
+[Configuración del sistema](../api/system-config.md) | [Instalación de un plugin](../articles/deploy-plugin.md) | [Establecer permisos de ejecución](../api/security-summary.md)
