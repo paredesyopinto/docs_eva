@@ -21,4 +21,4 @@ _[**SQLite**](https://sqlite.org) es una biblioteca que implementa un proceso au
 
 ## Temas relacionados
 
-[Configuración del sistema](../api/system-config.md) | [Componentes del sistema](../api/system-design.md) | [Descargar .NET Core](https://dotnet.microsoft.com/download) | [Copyright SQLite](https://sqlite.org/copyright.html)
+[Configuración del sistema](../api/system-config.md) | [Componentes del sistema](../api/system-summary.md) | [Descargar .NET Core](https://dotnet.microsoft.com/download) | [Copyright SQLite](https://sqlite.org/copyright.html)

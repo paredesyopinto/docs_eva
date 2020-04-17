@@ -7,24 +7,33 @@
      href: overview.md
    - name: "Procesamiento de una solicitud"
      href: processing-request.md
-   - name: Plugins
-     href: introducing-plugins.md  
 
 - name: Componentes
-  href: system-design.md
+  href: system-summary.md
   items:
-   - name: "Configuración del sistema"
-     href: system-config.md
-   - name: Admnistración
-     href: system-admin.md
-   - name: "Línea de comandos"
-     href: powershell-module.md
+   - name: "Soporte para múltiples bots"
+     href: bot-instances.md
+   - name: Extensiones/plugins
+     href: introducing-plugins.md
+   - name: "Variedad de opciones de respuesta"
+     href: ../articles/format-output.md
 
-- name: "Mensajes de error"
+- name: Configuración del sistema
+  href: system-summary.md
+  items:
+  - name: "Seguridad y permisos"
+    href: security.md
+  - name: "Archivo de configuración"
+    href: security.md    
+  - name: "Archivos de Logs"
+    href: security.md      
+
+- name: "Mensajes de error comunes"
   href: error-messages.md     
+
+- name: "Seguimiento de una solicitud"
+  href: trace-request.md
 
 - name: "Estadísticas de uso"
   href: system-statistics.md
 
-- name: "Seguimiento/Rastreo de una solicitud"
-  href: trace-request.md

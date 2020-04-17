@@ -1,6 +1,6 @@
 # EVA Slack Edition
 
-`EVA Slack Edition` es un servicio que permite responder a una solicitud hecha desde un canal de Slack con un desarrollo personalizado, facilitando la automatización de sus flujos de trabajo, y atendiendo al cliente en línea y tiempo real. Ofrezca valor a sus usuarios más rápido utilizando herramientas comprobadas para la automatización del trabajo en todos sus equipos. Conéctese con otros sistemas, APIs y/o bases de datos y automatice los procesos de atención a sus clientes.
+**E**vertec **V**irtual **A**ssistant o **`EVA Slack Edition`**, es un servicio que permite responder a una solicitud hecha desde un canal de [Slack](https://slack.com) con un desarrollo personalizado, facilitando la automatización de los flujos de trabajo, y atendiendo al cliente en línea y tiempo real. Ofrezca valor a los usuarios más rápido, utilizando herramientas de automatización del trabajo en todos los equipos. Conéctese con otros sistemas, APIs y/o bases de datos y automatice los procesos de atención a los clientes.
 
 [![Obtenga más información aquí](images/more_info_here.png "Obtenga más información aquí")](api/index.md)
 
@@ -24,6 +24,6 @@
 
 ## Plugins del sistema
 
-[![Plugins del sistema](images/system-plugins-icon.png "Plugins del sistema")](articles/system-plugins.md)
+[![Plugins del sistema](images/system-plugins-icon.png "Plugins del sistema")](api/introducing-plugins.md)
 
-[Conozca los plugins que vienen con el sistema o aprenda a crear sus plugins propios.](articles/system-plugins.md)
+[Conozca los plugins que vienen con el sistema o aprenda a crear sus plugins propios.](api/introducing-plugins.md)

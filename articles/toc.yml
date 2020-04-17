@@ -4,7 +4,10 @@
 - name: "Contexto de ejecución"
   href: context-plugin.md
 
-- name: "¿Como probar un plugin?"
+- name: "Dar formato a la salida"
+  href: format-output.md
+
+- name: "Probar un plugin"
   href: testing-plugin.md
 
 - name: "Instalar un plugin"
@@ -12,6 +15,3 @@
 
 - name: "Administración de plugins"
   href: admin-plugin.md  
-
-- name: "Plugins del sistema"
-  href: system-plugins.md
