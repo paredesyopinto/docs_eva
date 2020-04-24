@@ -1,0 +1,3 @@
+# Configuración del sistema
+
+Un sistema configurado correctamente evita problemas de conflictos de recursos y facilita la actualización y administración de este. Procesar la configuración implica interpretar un conjunto de datos de configuración y actuar sobre esos datos para realizar la configuración del sistema en consecuencia. La configuración de **`EVA`** se realiza utilizando un proveedor de configuración, que lee los datos de configuración de pares clave-valor utilizando un archivo en formato JSON. El nombre predeterminado de este archivo es `appsettings.json` y está ubicado en la misma carpeta de instalación del sistema.

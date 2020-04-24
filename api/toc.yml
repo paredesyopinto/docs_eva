@@ -25,6 +25,8 @@
     href: security-users.md
   - name: Roles
     href: security-roles.md   
+  - name: Permisos de ejecución
+    href: security-permissions.md  
 
 - name: "Mensajes de error comunes"
   href: error-messages.md     
@@ -36,7 +38,7 @@
   href: system-statistics.md
   
 - name: Configuración del sistema
-  href: system-summary.md
+  href: config-summary.md
   items:  
     - name: "Archivo de configuración"
       href: config-file.md

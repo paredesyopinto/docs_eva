@@ -1,8 +1,8 @@
 # Usuarios
 
-**`EVA`** no administra credenciales de acceso. La única verificación que realiza **`EVA`** es si se reconoce al usuario, por lo que se requiere que exista un registro en el repositorio de datos de **`EVA`** con al menos el nombre de identificación de registro en la plataforma Slack, de los usuarios autorizados para hacer uso del bot. Por lo general este nombre tiene la forma @username. Lamentablemente este valor en Slack siempre ha sido mutable y no se garantiza la unicidad, por lo que la recomendación para todos los escenarios es que los usuarios utilicen su número de identificación para evitar posibles conflictos con otros usuarios.
+**`EVA`** no administra credenciales de acceso. La única verificación que realiza **`EVA`** es si se reconoce a la persona que intenta ejecutar el comando como un usuario autorizado para hacer uso del bot. Por lo que se requiere que exista un registro en el repositorio de datos de **`EVA`** con al menos el nombre de identificación de registro de la persona en la plataforma de Slack. Por lo general este nombre tiene la forma `@username`. Lamentablemente este valor en Slack es mutable y no se garantiza la unicidad, por lo que la recomendación para todos los escenarios es que los usuarios utilicen su número de identificación para evitar posibles conflictos con otros usuarios.
 
-Sin emgarbo, también es posible identificar al usuario a través de su ID de miembro de Slack, cuyo valor no cambia, es único y  el usuario no lo puede modificar.
+Sin embargo, también es posible identificar al usuario a través de su ID de miembro de Slack, cuyo valor no cambia, es único y  el usuario no lo puede modificar.
 
 ## ¿Cómo encontrar el ID de miembro de Slack? Opción 1
 

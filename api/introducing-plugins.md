@@ -10,7 +10,8 @@ La configuración del plugin se puede establecer cuando sea necesario, durante e
 
 La versión 1.0 de **`EVA`** dispone varios plugins de contenido que intentan facilitar la interacción del usuario con bot y al mismo tiempo simplificar la administración.
 
-### Plugin de Ayuda
+
+### Plugin de ayuda
 
 Muestra la información de todos los comandos disponibles en el bot, así como su forma de uso. Responde cuando el usuario ingresa el texto $ayuda en la caja de entrada.
 
