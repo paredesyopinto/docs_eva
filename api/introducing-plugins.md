@@ -6,6 +6,10 @@ Un plugin puede mantener su propia configuración (en el ejemplo anterior la cad
 
 La configuración del plugin se puede establecer cuando sea necesario, durante el proceso de instalación del plugin a través del archivo de manifiesto de instalación. Hablaremos de este archivo en la sección [creación de un plugin](../articles/new-plugin.md).
 
+## Comandos diferidos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+
 ## Plugins del sistema
 
 La versión 1.0 de **`EVA`** dispone varios plugins de contenido que intentan facilitar la interacción del usuario con bot y al mismo tiempo simplificar la administración.

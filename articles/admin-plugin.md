@@ -1,3 +1,7 @@
 # Administración de plugins
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at mauris eget magna auctor bibendum. Proin eu interdum massa. Maecenas aliquam mollis volutpat. Sed scelerisque sapien sit amet enim venenatis feugiat. Aliquam mollis neque sem, vitae tristique augue interdum commodo. Sed finibus, velit vel pharetra elementum, lacus tellus molestie elit, quis luctus massa dolor at lectus. Proin egestas, neque laoreet pharetra fermentum, justo risus dictum urna, in dapibus sem nunc quis nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc iaculis felis sed finibus rhoncus. Sed bibendum magna ex, at auctor sem dignissim nec. Integer id risus commodo, dapibus ligula sit amet, semper mi.
+La administración de plugins en EVA se hace a través del [módulo de PowerShell](../api/powershell-module.md), que tiene comandos para instalar, modificar y eliminar los plugins del sistema.
+
+Cuando un desarrollar libera el instalador de un plugin, incluye un archivo de manifiesto. Este archivo se evalúa y procesa durante la instalación permitiendo al desarrollador definir los elementos de configuración necesarios para el correcto funcionamiento de su plugin. Por ejemplo, si su plugin necesitará de una cadena de conexión a una base de datos, bastaría con agregar en el archivo de manifiesto una entrada para que se solicite este valor durante el proceso de instalación. Luego, el desarrollador puede recuperar el valor en tiempo de ejecución y conectar con la base de datos.
+
+## Ejemplo del archivo de manifiesto
