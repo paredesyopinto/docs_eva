@@ -42,7 +42,7 @@ Si encuentra un error específico no cubierto en esta publicación y tiene un c�
 
 ### Relacionados con la cache del sistema
 
-En general los errores relacionados por la cache del sistema se pueden identificar porque inician con el texto **140** seguido generalmente por tres dígitos. Cuando se utiliza el modulo de PowerShell para administrar los valores del sistema, **`EVA`** se encarga de mantener sincronizados los datos del repositorio y la cache del sistema, pero si por algún motivo necesita reiniciar o sincronizar la cache del sistema puede utilizar el [Cmdlet RestartCache de PowerShell](powershell-module.md)
+En general los errores relacionados por la cache del sistema se pueden identificar porque inician con el texto **140** seguido generalmente por tres dígitos. Cuando se utiliza el modulo de PowerShell para administrar los valores del sistema, **`EVA`** se encarga de mantener sincronizados los datos del repositorio y la cache del sistema, pero si por algún motivo necesita reiniciar o sincronizar la cache del sistema puede utilizar el [Cmdlet Restart-Cache de PowerShell](powershell-module.md)
 
 
 #### Temas relacionados
