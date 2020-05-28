@@ -38,7 +38,7 @@ Si encuentra un error específico no cubierto en esta publicación y tiene un c�
 
 - **Causa**: Usuario no tiene permisos para ejecutar este comando. _El usuario que intenta utilizar el comando no tiene permisos para hacerlo._
 
-- **Resolución**: Para que un usuario pueda hacer uso de un comando, debe tener un permiso de uso explicito. Agregue el permiso al usuario utilizando el [Cmdlet GrantPermisssion de PowerShell](powershell-module.md)
+- **Resolución**: Para que un usuario pueda hacer uso de un comando, debe tener un permiso de uso explicito. Agregue el permiso al usuario utilizando el [Cmdlet Grant-Permisssion de PowerShell](powershell-module.md)
 
 ### Relacionados con la cache del sistema
 

@@ -1,15 +1,29 @@
 # Módulo de PowerShell
 
-In non auctor erat. Aliquam erat volutpat. Nunc metus mauris, vulputate quis dignissim et, imperdiet mattis tortor. Pellentesque sagittis, erat sit amet feugiat suscipit, leo sapien lobortis purus, non varius sapien augue non diam. Etiam sollicitudin libero vitae nisl elementum, sit amet blandit diam viverra. Morbi sagittis eros sit amet mi viverra, vel placerat magna dapibus. Morbi suscipit eleifend tortor.
+El módulo de PowerShell de EVA facilita la administración de la información, de una instancia del host de forma local o remota. Puede configurar y administrar:
 
-## Instalación
-
-In non auctor erat. Aliquam erat volutpat. Nunc metus mauris, vulputate quis dignissim et, imperdiet mattis tortor. Pellentesque sagittis, erat sit amet feugiat suscipit, leo sapien lobortis purus, non varius sapien augue non diam. Etiam sollicitudin libero vitae nisl elementum, sit amet blandit diam viverra. Morbi sagittis eros sit amet mi viverra, vel placerat magna dapibus. Morbi suscipit eleifend tortor.
+- Usuarios y grupos de seguridad
+- Plugins
+- Comandos
+- Permisos
+- Instancias de Bots
 
 ## Principales comandos
 
-In non auctor erat. Aliquam erat volutpat. Nunc metus mauris, vulputate quis dignissim et, imperdiet mattis tortor. Pellentesque sagittis, erat sit amet feugiat suscipit, leo sapien lobortis purus, non varius sapien augue non diam. Etiam sollicitudin libero vitae nisl elementum, sit amet blandit diam viverra. Morbi sagittis eros sit amet mi viverra, vel placerat magna dapibus. Morbi suscipit eleifend tortor.
+Para obtener la lista completa de comandos del módulo puede utilizar las siguientes instrucciones:
+
+```powershell
+Import-Module PSEva
+Get-Command -Module PSEva
+```
+
+Para agrupar los resultados por tipo de comando puede utilizar:
+
+```powershell
+Import-Module PSEva
+Get-Command -Module PSEva  | Group-Object -Property Verb
+```
 
 ## Prerequisitos
 
-In non auctor erat. Aliquam erat volutpat. Nunc metus mauris, vulputate quis dignissim et, imperdiet mattis tortor. Pellentesque sagittis, erat sit amet feugiat suscipit, leo sapien lobortis purus, non varius sapien augue non diam. Etiam sollicitudin libero vitae nisl elementum, sit amet blandit diam viverra. Morbi sagittis eros sit amet mi viverra, vel placerat magna dapibus. Morbi suscipit eleifend tortor.
+PSEVA no tiene dependencias y está diseñado para funcionar en una computadora con una nueva instalación de Windows.
