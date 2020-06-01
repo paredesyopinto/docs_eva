@@ -43,4 +43,6 @@
     - name: "Archivo de configuración"
       href: config-file.md
     - name: "Archivos de Logs"
-      href: config-logs.md      
+      href: config-logs.md
+    - name: "Módulo de PowerShell"      
+      href: powershell-module.md

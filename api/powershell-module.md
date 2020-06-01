@@ -24,6 +24,18 @@ Import-Module PSEva
 Get-Command -Module PSEva  | Group-Object -Property Verb
 ```
 
+Al igual que para otros módulos de Powershell puede utilizar el comando [Get-Help](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-help) para obtener información sobre los comandos. Por ejemplo:
+
+```powershell
+Get-Help Nombre-Funcion
+# Obtener el texto de ayuda de una función
+```
+
+```powershell
+Get-Help Nombre-Funcion -Parameter Nombre-Parametro
+# Obtener el texto de ayuda de un parámetro en una función
+```
+
 ## Prerequisitos
 
 PSEVA no tiene dependencias y está diseñado para funcionar en una computadora con una nueva instalación de Windows.

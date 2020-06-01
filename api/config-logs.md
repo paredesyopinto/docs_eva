@@ -9,7 +9,8 @@ Vaya a la carpeta de instalaci√≥n del servicio y ubique la subcarpeta Logs. All√
 En una ventana de PowerShell, escriba:
 
 ```powershell
-Get-Service *Slack* | Get-Deployment
+Import-Module PSEva
+Get-Deployment
 ```
 
 
